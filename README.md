@@ -2,6 +2,7 @@
 
 <!--
 **Itsuki54/Itsuki54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki54&theme=2077)
 
 Here are some ideas to get you started:
 
