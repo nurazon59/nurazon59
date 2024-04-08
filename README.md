@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki54&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki54&theme=2077&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsuki54&layout=compact&theme=tokyonight&count_private=true)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsuki54&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Itsuki54&theme=tokyonight&count_private=true)
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Itsuki54&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=onedark&count_private=true)](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=tokyonight)
+
+
