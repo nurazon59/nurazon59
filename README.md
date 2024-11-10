@@ -26,4 +26,4 @@ https://itk-koshiishi.net/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=onedark&count_private=true)](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=tokyonight)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=itsuki_54)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=itsuki_54&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)
