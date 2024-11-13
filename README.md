@@ -27,3 +27,9 @@ https://itk-koshiishi.net/
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=onedark&count_private=true)](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=tokyonight)
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=itsuki_54&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg">
+  <img alt="github contribution grid snake animation" src="./img/snake.svg">
+</picture>
