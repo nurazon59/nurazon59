@@ -20,7 +20,9 @@ https://itk-koshiishi.net/
 
 
 <div align="center">
+  {
 あなたは[![Visitor Count](https://profile-counter.glitch.me/Itsuki54/count.svg)](#)人目の訪問者です。
+}
 </div>
 
 
