@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![typograssy](https://typograssy.deno.dev/api?text=Itsuki54)](https://github.com/kawarimidoll/typograssy)
 <!--
 **Itsuki54/Itsuki54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,8 +29,6 @@ https://itk-koshiishi.net/
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=onedark&count_private=true)](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=tokyonight)
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=itsuki_54&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)
-
-[![typograssy](https://typograssy.deno.dev/api?text=Itsuki54)](https://github.com/kawarimidoll/typograssy)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg">
