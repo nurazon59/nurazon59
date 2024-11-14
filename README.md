@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ### My Portfolio→
 https://itk-koshiishi.net/
 
+あなたは[![Visitor Count](https://profile-counter.glitch.me/Itsuki54/count.svg)](#)人目の訪問者です。
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki54&theme=2077&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsuki54&layout=compact&theme=tokyonight&count_private=true)
