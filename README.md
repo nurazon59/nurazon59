@@ -30,6 +30,8 @@ https://itk-koshiishi.net/
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=itsuki_54&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
+[![typograssy](https://typograssy.deno.dev/api?text=Itsuki54)](https://github.com/kawarimidoll/typograssy)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg">
