@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![typograssy](https://typograssy.deno.dev/api?text=Itsuki54)]
+![typograssy](https://typograssy.deno.dev/api?text=Itsuki54)
 
 ### My Portfolio
 https://itk-koshiishi.net/
