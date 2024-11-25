@@ -5,7 +5,8 @@
 ### My Portfolio
 https://itk-koshiishi.net/
 
-あなたは[![Visitor Count](https://profile-counter.glitch.me/Itsuki54/count.svg)](#)人目の訪問者です。
+[![Twitter: Itsuki54_dev](https://img.shields.io/twitter/follow/Itsuki54_dev?style=social)](https://twitter.com/Itsuki54_dev)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Itsuki54&left_color=gray&right_color=blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki54&theme=2077&count_private=true)
 
