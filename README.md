@@ -1,4 +1,5 @@
 [![Twitter: Itsuki54_dev](https://img.shields.io/twitter/follow/Itsuki54_dev?style=social)](https://twitter.com/Itsuki54_dev)
+https://komarev.com/ghpvc/?username=Itsuki54
 
 ### Hi there 👋
 
