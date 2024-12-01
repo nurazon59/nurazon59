@@ -1,6 +1,18 @@
 [![Twitter: Itsuki54_dev](https://img.shields.io/twitter/follow/Itsuki54_dev?style=social)](https://twitter.com/Itsuki54_dev)
-https://komarev.com/ghpvc/?username=Itsuki54
-
+<p align="left">
+  <a href="https://github.com/Itsuki54/Itsuki54/">
+    <img src="https://komarev.com/ghpvc/?username=Itsuki54" alt="Itsuki54" />
+  </a>
+  <a href="https://github.com/Itsuki54">
+    <img height="20" src="https://img.shields.io/github/followers/Itsuki54?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Itsuki54">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Itsuki54/posts.svg" />
+  </a>
+  <//qiita.com/Itsuki54">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Itsuki54/contributions.svg" />
+  </a>
+</p>
 ### Hi there 👋
 
 ![typograssy](https://typograssy.deno.dev/api?text=Itsuki54)
