@@ -29,7 +29,7 @@ https://itk-koshiishi.net/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=onedark&count_private=true)](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=tokyonight)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=itsuki_54&theme=monokai)]
+![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=itsuki_54&theme=monokai)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg">
