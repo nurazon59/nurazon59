@@ -22,6 +22,7 @@ https://itk-koshiishi.net/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki54&theme=2077&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Itsuki54&theme=tokyonight)
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsuki54&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages Card" width="35%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Itsuki54&theme=tokyonight&count_private=true" alt="GitHub Stats Card" width="40%" />
