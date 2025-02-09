@@ -1,5 +1,4 @@
 [![Twitter: Itsuki54_dev](https://img.shields.io/twitter/follow/Itsuki54_dev?style=social)](https://twitter.com/Itsuki54_dev)
-[![wakatime](https://wakatime.com/badge/user/fb267540-e0f9-4920-adf1-721e2bf7856b.svg)](https://wakatime.com/@fb267540-e0f9-4920-adf1-721e2bf7856b)
 <p align="left">
   <a href="https://github.com/Itsuki54/Itsuki54/">
     <img src="https://komarev.com/ghpvc/?username=Itsuki54" alt="Itsuki54" />
