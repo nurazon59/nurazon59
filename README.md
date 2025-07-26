@@ -1,10 +1,9 @@
-[![Twitter: Itsuki54_dev](https://img.shields.io/twitter/follow/Itsuki54_dev?style=social)](https://twitter.com/Itsuki54_dev)
 <p align="left">
-  <a href="https://github.com/Itsuki54/Itsuki54/">
-    <img src="https://komarev.com/ghpvc/?username=Itsuki54" alt="Itsuki54" />
+  <a href="https://github.com/itsuki54/itsuki54/">
+    <img src="https://komarev.com/ghpvc/?username=itsuki54" alt="itsuki54" />
   </a>
-  <a href="https://github.com/Itsuki54">
-    <img height="20" src="https://img.shields.io/github/followers/Itsuki54?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/itsuki54">
+    <img height="20" src="https://img.shields.io/github/followers/itsuki54?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/Itsuki54">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Itsuki54/posts.svg" />
@@ -15,20 +14,20 @@
 </p>
 ### Hi there 👋
 
-![typograssy](https://typograssy.deno.dev/api?text=Itsuki54)
+![typograssy](https://typograssy.deno.dev/api?text=itsuki54)
 
 ### My Portfolio
 https://itk-koshiishi.net/
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki54&theme=2077&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Itsuki54&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsuki54&theme=2077&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=itsuki54&theme=tokyonight)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsuki54&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages Card" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsuki54&theme=tokyonight&count_private=true" alt="GitHub Stats Card" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuki54&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages Card" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsuki54&theme=tokyonight&count_private=true" alt="GitHub Stats Card" width="40%" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=onedark&count_private=true)](https://github-profile-trophy.vercel.app/?username=Itsuki54&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsuki54&theme=onedark&count_private=true)](https://github-profile-trophy.vercel.app/?username=itsuki54&theme=tokyonight)
 
 ![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=itsuki_54&theme=monokai)
 
