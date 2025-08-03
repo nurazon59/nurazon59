@@ -5,12 +5,6 @@
   <a href="https://github.com/nurazon59">
     <img height="20" src="https://img.shields.io/github/followers/nurazon59?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/nurazon59">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nurazon59/posts.svg" />
-  </a>
-  <//qiita.com/nurazon59">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nurazon59/contributions.svg" />
-  </a>
 </p>
 ### Hi there 👋
 
