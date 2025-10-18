@@ -1,14 +1,10 @@
-<p align="left">
-  <a href="https://github.com/nurazon59/nurazon59/">
-    <img src="https://komarev.com/ghpvc/?username=nurazon59" alt="nurazon59" />
-  </a>
-  <a href="https://github.com/nurazon59">
-    <img height="20" src="https://img.shields.io/github/followers/nurazon59?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+![typograssy](https://typograssy.deno.dev/api?text=nurazon59)
+
 ### Hi there 👋
 
-![typograssy](https://typograssy.deno.dev/api?text=nurazon59)
+### My Skill
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,go,react,nextjs,ruby,rails,dart,flutter)
 
 ### My Portfolio
 https://itk-koshiishi.net/
