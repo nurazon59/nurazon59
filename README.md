@@ -4,7 +4,13 @@
 
 ### My Skill
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,go,react,nextjs,ruby,rails,dart,flutter)
+**languages**
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,go,ruby)
+
+**Flameworks and Libraries**
+
+![Flamework and library](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,vite,vitest,astro,dart,rails)
 
 ### My Portfolio
 https://itk-koshiishi.net/
