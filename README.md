@@ -6,11 +6,11 @@
 
 **languages**
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,go,ruby)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,go,ruby,terraform,dart)
 
 **Flameworks and Libraries**
 
-![Flamework and library](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,vite,vitest,astro,dart,rails)
+![Flamework and library](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,vite,vitest,astro,flutter,rails,aws,graphql,bun)
 
 ### My Portfolio
 https://itk-koshiishi.net/
