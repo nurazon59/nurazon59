@@ -6,7 +6,7 @@
 
 **languages**
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,go,ruby,terraform,dart)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,go,ruby,terraform,dart,lua)
 
 **Flameworks and Libraries**
 
