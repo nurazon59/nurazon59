@@ -10,7 +10,7 @@
 
 **Flameworks and Libraries**
 
-![Flamework and library](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,vite,vitest,astro,flutter,rails,aws,graphql,bun)
+![Flamework and library](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,vite,vitest,astro,flutter,rails,aws,graphql,bun,postgresql)
 
 ### My Portfolio
 https://itk-koshiishi.net/
